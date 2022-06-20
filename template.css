@@ -39,7 +39,7 @@ p {padding: 1% 0;}
 	
 .header { width: 100%; height: 115px; float: left;
 background: url('images/band_logo.gif') center no-repeat;}
-@media screen and (max-width: 600px) { .header { background: url('images/band_logo_s.png') center no-repeat; } }
+@media screen and (max-width: 600px) { .header { background: url('images/band_logo.gif') center no-repeat; } }
 .header a { display: block; width: 100%; height: 115px;}
 .header a span { visibility: hidden; }
 
